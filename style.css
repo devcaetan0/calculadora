@@ -38,35 +38,26 @@ input {
 }
 
 .botao-rosa {
-    font-size: 30px;
-    border: none;
-    outline: none;
-    margin: 5px;
-    border-radius: 5px;
-    cursor: pointer;
     background-color: rgb(255, 45, 209);
-    color: rgb(255, 181, 212);
 }
 
 .botao-roxo {
-    font-size: 30px;
-    border: none;
-    outline: none;
-    margin: 5px;
-    border-radius: 5px;
-    cursor: pointer;
     background-color: rgb(177, 0, 212);
-    color: rgb(255, 181, 212);
 }
 
 .ingual {
+    background-color: rgb(226, 0, 113);
+    grid-row: 6/8;
+    grid-column: 4/5;
+}
+
+button {
     font-size: 30px;
     border: none;
     outline: none;
     margin: 5px;
     border-radius: 5px;
     cursor: pointer;
-    background-color: rgb(226, 0, 113);
     color: rgb(255, 181, 212);
 }
 
