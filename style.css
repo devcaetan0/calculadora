@@ -59,11 +59,17 @@ input {
     color: rgb(255, 181, 212);
 }
 
-button {
+.ingual {
     font-size: 30px;
     border: none;
     outline: none;
     margin: 5px;
     border-radius: 5px;
     cursor: pointer;
+    background-color: rgb(226, 0, 113);
+    color: rgb(255, 181, 212);
+}
+
+button:hover {
+    opacity: 0.67;
 }
