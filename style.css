@@ -48,6 +48,17 @@ input {
     color: rgb(255, 181, 212);
 }
 
+.botao-roxo {
+    font-size: 30px;
+    border: none;
+    outline: none;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(177, 0, 212);
+    color: rgb(255, 181, 212);
+}
+
 button {
     font-size: 30px;
     border: none;
