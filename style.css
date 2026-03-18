@@ -9,7 +9,12 @@ body {
     background-color: rgb(255, 159, 218);
 }
 
-#titulo {}
+#titulo {
+    background-color: rgb(245, 86, 218);
+    padding: 20px;
+    border-radius: 50px;
+    color: rgb(255, 196, 237);
+}
 
 /* ===== SEÇÃO DA CALCULADORA ===== */
 

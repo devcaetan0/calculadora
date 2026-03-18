@@ -3,3 +3,7 @@ function add_char(caractere) {
 
     document.querySelector('.display').value = valor_input + caractere;
 }
+
+function limpa_tela(){
+    document.querySelector('.display').value = '';
+}

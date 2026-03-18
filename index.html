@@ -9,15 +9,15 @@
 </head>
 
 <body>
-    <header id="titulo">
-        <h1>CALCULADORA SIMPLES</h1>
+    <header>
+        <h1 id="titulo">CALCULADORA SIMPLES</h1>
     </header>
 
     <main>
         <div id="calculadora">
             <input class="display" />
 
-            <button class="botao-roxo">AC</button>
+            <button onclick="limpa_tela()" class="botao-roxo">AC</button>
 
             <button onclick="add_char('+')" class="botao-roxo">+/-</button>
             <button onclick="add_char('/')" class="botao-roxo">/</button>
